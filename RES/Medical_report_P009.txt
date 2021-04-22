@@ -1,0 +1,42 @@
+Medecin demandeur: 
+Motif de consultation: 
+Protocole de Recherche: 
+Activité physique : 
+Traitement : 
+
+EFR PRE EFFORT :
+VEMS = 1.74L soit 81 % de la théorique
+VEMS/CV = 72 % CVF= 2.43 L soit 97 % de la théorique
+
+PROTOCOLE
+Epreuve d'effort cardiorespiratoire de type triangulaire avec mesure de la VO2Max
+Protocole = E20w-I15w et une pente VO2/W = 9.35
+ Epreuve d'effort maximale avec pour critères de maximalité :
+ - VO2 max = 40.7 ml/min/kg soit 87 % de la VO2 prédite
+ - Fc max = 184 bpm soit 88 % de la FC prédite et Puissance max =155 watts 
+ - QR max  1.1 et QR repos 0.87
+ - Dyspnée  perçue : 10
+ - Possibilité de maintenir la vitesse de pédalage 
+
+PLAN CARDIOLOGIQUE
+Profil tensionnel normal avec une P syst à 130mmHg au max de l'effort
+Cinétique du Pouls d'O2 : repos 6.6 ml/btts au SV1 10.9 ml/btts et au max 9.7 ml/btts
+Sur l'ECG : Absence Sous décalage ST / Absence Trouble du rythme / absence d'ESV
+
+ PLAN RESPIRATOIRE 
+Réserves ventilatoires entamées/non entamées à -2.1 % 
+Fréquence Respiratoire correcte / Polypnée d'effort (FR Max = 62.6cyc/min)
+Hyperventilation/Ventilation alvéolaire  (PetCO2 = 36 mmHg)
+Augmentation  du VC (x2) avec : Repos = 619 ml et Max = 991 ml soit VC/Kg = 23 ml/kg
+Équivalent respiratoires : VE/VCO2 au max de l'effort = 32.3 et VE/VO2 au max de l'effort = 35.7
+Ineficacité/ Efficacité respiratoire avec Pente VE/VCO2 au max de l'effort = 32.4
+OUES = 2060 ml/min/l/min
+
+ PLAN PÉRIPHÉRIQUE 
+Seuil ventilatoire (SV1) estimé à 29.6 ml/min/kg soit 63 % de la VO2 max Théorique pour une fréquence cardiaque de 120 bpm et une puissance de 50 Watts
+
+ BILAN 
+Epreuve d'effort maximale avec aptitude aérobie normale (VO2kg =40.7ml/min/kg soit 87 % de VO2 théorique)
+Bonne condition musculaire périphérique 
+Bonne / Mauvaise adaptation cardiovasculaire ; Absence / Présence de trouble du rythme 
+Bonne / Mauvaise adaptation respiratoire 
