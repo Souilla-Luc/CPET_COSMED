@@ -35,4 +35,4 @@ Aims of this study are:
   
 * In DOC file, you can find more details in`read_me_longer.pdf`. Once you have read it , you could use script more easily.
 
-* I made a youtube tutorial, click [[here]](https://youtu.be/AKPK5kO6MOo)      
+* I made a youtube tutorial, click [[here]](https://youtu.be/T9ShSF8CeLk)      
