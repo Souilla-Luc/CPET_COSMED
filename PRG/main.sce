@@ -47,12 +47,12 @@ exec(FullFileInitTRT);
 // Variables are in French
 // Report medical have to be written in French as well, for patient and cardiologist comprehension
 
-
-Name= "P009";// Name of the file dragged in DAT File
+Name= uigetfile([""],DAT_PATH)
+//Name= "P009";// Name of the file dragged in DAT File
 Name_txt= Name+".txt"; // Medical report output of this script is "Name.txt"
-Name_xls= Name+".xls"; // should be an excel 2003 file, not xlsx. 
+Name_xls= Name; // should be an excel 2003 file, not xlsx. 
 //Cosmed software will generate xlsx,read the document provided on my github page
-Fullfname = fullfile(DAT_PATH,Name_xls);
+Fullfname = fullfile(Name);
 Sheets= readxls(Fullfname); 
 
 
@@ -285,9 +285,9 @@ Medical_report(42,1)= "Bonne / Mauvaise adaptation respiratoire "
 //-----------| Save Medical report in RES File | -----------// 
 
 disp(Medical_report); // Display Medical report in Scilab console
-fileresname=(fullfile(RES_PATH, "Medical_report_"+ Name_txt ));// Output txt file names is "Medical_report_Nameof file"
+fileresname=(fullfile(RES_PATH, "Medical_report_"+ Surname+'.txt' ));// Output txt file names is "Medical_report_Nameof file"
 //Medical report is in RES file
-mputl(Medical_report,fileresname);/
+mputl(Medical_report,fileresname);
 
 
 //    |                                                                  |
@@ -424,7 +424,7 @@ set(gca(),"grid",[1 1]);
 
 //Export to pdf in RES FILE
 winnum=0; // number of figure
-fileresnameplot=(fullfile(RES_PATH, "Graphics_"+ Name));// Output pdf file names is "Graphics_Name of file"
+fileresnameplot=(fullfile(RES_PATH, "Graphics_"+ Surname));// Output pdf file names is "Graphics_Name of file"
 xs2pdf(winnum,fileresnameplot,['portrait']);
 
 
